@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # week13_static_screen
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Gabuya_Keanu_Week13
+>>>>>>> 469f9bc2cef41c6b375e0303ac30c2038fe103fe
