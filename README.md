@@ -1,21 +1,11 @@
-<<<<<<< HEAD
-# week13_static_screen
+# Pinoy Sweets – Week 13 Static Flutter Screen
 
-A new Flutter project.
+A static Login screen for the Pinoy Sweets app, built from my Week 1–2 Figma wireframe.
 
-## Getting Started
+## How to run
+1. `flutter pub get`
+2. `flutter run -d chrome`
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Gabuya_Keanu_Week13
->>>>>>> 469f9bc2cef41c6b375e0303ac30c2038fe103fe
+## What's inside
+- `lib/main.dart` – `PinoySweetsApp` (MaterialApp) and `LoginScreen` (custom StatelessWidget)
+- Widgets used: Scaffold, AppBar, SafeArea, Container, Column, Row, Text
